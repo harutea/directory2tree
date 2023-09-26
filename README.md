@@ -11,6 +11,3 @@ Generate a drawing of a broad-leaved tree based on a directory structure.
 
 ## Development Environments
 - Qt5
-
-## License
-MIT © 2020. Kihun Jang
