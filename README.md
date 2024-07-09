@@ -1,7 +1,7 @@
 # directory2tree
 ![social-preview](/resource/images/github-social-preview.png)
 
-Generate a drawing of a broad-leaved tree based on a directory structure.
+Generates a drawing of a broad-leaved tree based on a directory structure.
 
 ## How to use
 - Select a directory and Generate a tree.
